@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP\\studentMark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|D:\\ASP\\studentMark\\studentmark\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|solutionrelative:studentmark\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|d:\\asp\\studentmark\\studentmark\\views\\student\\displayresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|solutionrelative:studentmark\\views\\student\\displayresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|D:\\ASP\\studentMark\\studentmark\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|solutionrelative:studentmark\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|D:\\ASP\\studentMark\\studentmark\\views\\student\\marks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|solutionrelative:studentmark\\views\\student\\marks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|D:\\ASP\\studentMark\\studentmark\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|solutionrelative:studentmark\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|D:\\ASP\\studentMark\\studentmark\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|solutionrelative:studentmark\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|D:\\ASP\\studentMark\\studentmark\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|solutionrelative:studentmark\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|D:\\ASP\\studentMark\\studentmark\\views\\student\\personal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{994DCC3C-F73B-4AE2-A0A4-33853F42B72A}|studentMark\\studentMark.csproj|solutionrelative:studentmark\\views\\student\\personal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayResult.cshtml",
+              "DocumentMoniker": "D:\\ASP\\studentMark\\studentMark\\Views\\Student\\DisplayResult.cshtml",
+              "RelativeDocumentMoniker": "studentMark\\Views\\Student\\DisplayResult.cshtml",
+              "ToolTip": "D:\\ASP\\studentMark\\studentMark\\Views\\Student\\DisplayResult.cshtml",
+              "RelativeToolTip": "studentMark\\Views\\Student\\DisplayResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T02:24:15.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\ASP\\studentMark\\studentMark\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "studentMark\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\ASP\\studentMark\\studentMark\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "studentMark\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA5wC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:28:11.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Marks.cshtml",
+              "DocumentMoniker": "D:\\ASP\\studentMark\\studentMark\\Views\\Student\\Marks.cshtml",
+              "RelativeDocumentMoniker": "studentMark\\Views\\Student\\Marks.cshtml",
+              "ToolTip": "D:\\ASP\\studentMark\\studentMark\\Views\\Student\\Marks.cshtml",
+              "RelativeToolTip": "studentMark\\Views\\Student\\Marks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T02:11:17.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\ASP\\studentMark\\studentMark\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "studentMark\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\ASP\\studentMark\\studentMark\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "studentMark\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:40:09.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ASP\\studentMark\\studentMark\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "studentMark\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ASP\\studentMark\\studentMark\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "studentMark\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:26:59.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Personal.cshtml",
+              "DocumentMoniker": "D:\\ASP\\studentMark\\studentMark\\Views\\Student\\Personal.cshtml",
+              "RelativeDocumentMoniker": "studentMark\\Views\\Student\\Personal.cshtml",
+              "ToolTip": "D:\\ASP\\studentMark\\studentMark\\Views\\Student\\Personal.cshtml",
+              "RelativeToolTip": "studentMark\\Views\\Student\\Personal.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:53:29.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\studentMark\\studentMark\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "studentMark\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP\\studentMark\\studentMark\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "studentMark\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:32:59.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ASP\\studentMark\\studentMark\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "studentMark\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\ASP\\studentMark\\studentMark\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "studentMark\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T09:57:00.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

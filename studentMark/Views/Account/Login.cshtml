@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+<hr />
+<form action="/account/login" method="post">
+    <div class="form-group">
+        <label class="form-label" for="uname">Username</label>
+        <input type="text" placeholder="Enter username" name="uname" id="uname" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label class="form-label" for="pword">Password</label>
+        <input type="password" placeholder="Enter password" name="pword" id="pword" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success mt-3">Login</button>
+</form>
+
+<span>@ViewBag.msg</span>
+

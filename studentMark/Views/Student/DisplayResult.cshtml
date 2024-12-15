@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "DisplayResult";
+    int sum;
+    float per;
+    sum = Convert.ToInt32(TempData["theory"]) + Convert.ToInt32(TempData["pracs"]) + Convert.ToInt32(TempData["oral"]);
+    per = sum / 3.0F;
+}
+
+<h2>Marksheet</h2>
+Student Name is @TempData["name"]<br />
+Address is @TempData["address"]<br />
+<table border="1">
+    <tr>
+        <td>Theory</td>
+        <td>@TempData["theory"]</td>
+    </tr>
+    <tr>
+        <td>Practical</td>
+        <td>@TempData["pracs"]</td>
+    </tr>
+    <tr>
+        <td>Oral</td>
+        <td>@TempData["oral"]</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>@sum</td>
+    </tr>
+    <tr>
+        <td>Percetage</td>
+        <td>@per</td>
+    </tr>
+</table>
+

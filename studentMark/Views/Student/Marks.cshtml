@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Marks";
+}
+
+<h2>Marks Details</h2>
+<hr />
+<div style="text-align:right">
+    <h4>Welcome @Session["uname"]</h4><br />
+</div>
+<form method="post" action="/student/marks">
+    <h4>@TempData.Peek("sname")</h4><br />
+    <label>Enter Theory marks</label><br />
+    <input type="text" name="theory" /><br />
+    <label>Enter Practical marks</label><br />
+    <input type="text" name="pracs" /><br />
+    <label>Enter Oral marks</label><br />
+    <input type="text" name="oral" /><br />
+
+    <button type="submit" class="btn btn-success mt-3">Save</button>
+
+</form>
+<br /><br />
+<span style="color:red">@ViewBag.msg</span>
+
